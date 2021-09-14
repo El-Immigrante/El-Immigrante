@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @El-Immigrante 
-- 👀 I’m interested in Coding obv 
-- 🌱 I’m currently learning how to fucking live
-- 📫 How to reach me? Discord:
+Hello! I am El Immigrante, i love spending my time coding exploits. 
 - Socials: https://twitch.tv/piepixel_
 <!---
 El-Immigrante/El-Immigrante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
