@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @El-Immigrante aka PiePixel or PieBoi_
+- 👋 Hi, I’m @El-Immigrante 
 - 👀 I’m interested in Coding obv 
 - 🌱 I’m currently learning how to fucking live
 - 📫 How to reach me? Discord:
