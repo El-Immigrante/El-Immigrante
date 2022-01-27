@@ -6,4 +6,4 @@
 4. ~.js SUCKS~
 5. .JS IS BAD
 
-`Problems with code? DM me: PiePixel#0855`
+`Problems with code? Tweet at me on twitter @PieBoi_`
