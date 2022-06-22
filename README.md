@@ -15,7 +15,7 @@
 OLD NAMES: (in case you're looking for code on my github)
 ------------------------------------------------------
 (June 2020 - September 2020) minimoon1/minimoon
---i deleted the account above--
+--i deleted the account--
 
 (August 2021 - March 2022) El-Immigrante
 --name change--
