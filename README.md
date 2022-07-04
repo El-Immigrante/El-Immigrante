@@ -1,20 +1,25 @@
-### Hi there, I'm SleepyKoder aka PieBoi_
+Hi there, I'm SleepyKoder aka PieBoi_
+-----------------------------------------
+i am a crackhead who lives in ohio *(one of the worst startes)*
 
-1. ~I make stuff~
-2. I do a lot of coding
-3. ARGs are fun!
-4. ~.js SUCKS~
-5. .JS IS BAD
-6. C++ is very annoying
-7. i cant code well
-8. im still in school
-9. i have no life lol
+my drugs of choice are **lua** *(mainly)*, **python** *(sometimes)*, **HTML** and **javascript** *(when i can't get my fix from html)*.
 
-`Problems with code? Tweet at me on twitter @PieBoi_`
+i am learning **java** *(for making minecraft clients)*.
 
-OLD NAMES: (in case you're looking for code on my github)
-------------------------------------------------------
-(June 2020 - September 2020) minimoon1/minimoon
+**"** *yes my life is this sad* **"** - SleepyKoder 2022
+
+
+### Open Projects:
+*in priority order*
+- 1: iClient MCJE
+- 2: Synrup (formally synrup bots project)
+- 3: *coming_soon™.real*
+
+`Problems? add an issue to this repo`
+
+### OLD NAMES: (in case you're looking for code on my github)
+
+(June 2020 - September 2020) minimoon1
 --i deleted the account--
 
 (August 2021 - March 2022) El-Immigrante
