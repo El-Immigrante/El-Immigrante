@@ -1,12 +1,9 @@
 Hi there, I'm SleepyKoder aka PieBoi_
 -----------------------------------------
-i am a crackhead who lives in ohio *(one of the worst startes)*
+just a boy that develops stuff
 
-my drugs of choice are **lua** *(mainly)*, **python** *(sometimes)*, **HTML** and **javascript** *(when i can't get my fix from html)*.
 
-i am learning **java** *(for making minecraft clients)*.
-
-**"** *yes my life is this sad* **"** - SleepyKoder 2022
+i speak lua, python, html, css, and javascript. im learning java.
 
 
 ### Open Projects:
