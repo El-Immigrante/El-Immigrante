@@ -3,7 +3,7 @@ Hi there, I'm SleepyKoder aka PieBoi_
 just a boy that develops stuff
 
 
-i speak lua, python, html, css, and javascript. im learning java.
+i speak **lua**, **python**, **html**, **css**, and **javascript**. im learning **java** and **V (lang)**.
 
 
 ### Open Projects:
