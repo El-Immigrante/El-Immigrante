@@ -9,8 +9,8 @@ i speak **lua**, **python**, **html**, **css**, and **javascript**. im learning 
 ### Open Projects:
 *in priority order*
 - 1: iClient MCJE
-- 2: Synrup (formally synrup bots project)
-- 3: *coming_soon™.real*
+- 2: Project: Mountain
+- 3: Synrup (Bots Proj)
 
 `Problems? add an issue to this repo`
 
