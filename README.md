@@ -20,7 +20,7 @@ Coding Langs:
 ### Open Projects:
 *in priority order*
 - 1: Project: Mountain *(CN: MTN)*
-- 2: Project: iClient *(CN: BETA)*
+- 2: Project: iClient *(CN: EYEC)*
 - 3: Project: Gamma *(CN: GAMMA)*
 
 `Problems? add an issue to this repo`
