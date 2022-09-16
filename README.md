@@ -5,12 +5,13 @@ just a boy that develops stuff
 
 i speak **lua**, **python**, **html**, **css**, and **javascript**. im learning **java** and **V (lang)**.
 
-
+### Released projects:
+- 1: Synrup Security Agency (In Beta)
+- 2: Project: Mountain (Alpha)
 ### Open Projects:
 *in priority order*
-- 1: iClient MCJE
-- 2: Project: Mountain
-- 3: Synrup (Bots Proj)
+- 1: Project: Mountain *(Alpha)*
+- 2: Project: iClient *(Gamma)*
 
 `Problems? add an issue to this repo`
 
