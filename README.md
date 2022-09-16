@@ -15,8 +15,8 @@ Coding Langs:
 **java**
 
 ### Released projects:
-- 1: Synrup Security Agency [0.84.8-closed_beta]
-- 2: Project: Mountain [early beta]
+- 1: Synrup Security Agency [0.84.8-closedbeta]
+- 2: Project: Mountain [0.68.4-lateAlpha]
 ### Open Projects:
 *in priority order*
 - 1: Project: Mountain *(CN: MTN)*
