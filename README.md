@@ -4,14 +4,20 @@ just a boy that develops stuff
 
 Spoken Langs: 
 **English (American)**,
-Spanish (Mexican)
+
+**Spanish (Mexican)**
 
 Coding Langs:
 **lua**,
+
 **python**,
+
 **html**,
+
 **css**,
+
 **javascript**,
+
 **java**
 
 ### Released projects:
