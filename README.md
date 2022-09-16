@@ -2,23 +2,17 @@ Hi there, I'm SleepyKoder aka PieBoi_
 -----------------------------------------
 just a boy that develops stuff
 
-Spoken Langs: 
-**English (American)**,
+### Spoken Langs: 
+- **English (American)**,
+- **Spanish (Mexican)**
 
-**Spanish (Mexican)**
-
-Coding Langs:
-**lua**,
-
-**python**,
-
-**html**,
-
-**css**,
-
-**javascript**,
-
-**java**
+### Coding Langs:
+- **lua**,
+- **python**,
+- **html**,
+- **css**,
+- **javascript**,
+- **java**
 
 ### Released projects:
 - 1: Synrup Security Agency [0.84.8-closedBeta]
