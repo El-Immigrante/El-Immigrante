@@ -2,16 +2,26 @@ Hi there, I'm SleepyKoder aka PieBoi_
 -----------------------------------------
 just a boy that develops stuff
 
+Spoken Langs: 
+**English (American)**,
+Spanish (Mexican)
 
-i speak **lua**, **python**, **html**, **css**, and **javascript**. im learning **java** and **V (lang)**.
+Coding Langs:
+**lua**,
+**python**,
+**html**,
+**css**,
+**javascript**,
+**java**
 
 ### Released projects:
-- 1: Synrup Security Agency (In Beta)
-- 2: Project: Mountain (Alpha)
+- 1: Synrup Security Agency [0.84.8-closed_beta]
+- 2: Project: Mountain [early beta]
 ### Open Projects:
 *in priority order*
-- 1: Project: Mountain *(Alpha)*
-- 2: Project: iClient *(Gamma)*
+- 1: Project: Mountain *(CN: MTN)*
+- 2: Project: iClient *(CN: BETA)*
+- 3: Project: Gamma *(CN: GAMMA)*
 
 `Problems? add an issue to this repo`
 
