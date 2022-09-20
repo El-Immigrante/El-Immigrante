@@ -20,7 +20,7 @@ just a boy that develops stuff
 ### Open Projects:
 *in priority order*
 - 1: Project: Tar *(CN: Tar)*
-- 2: Project: Mountain *(CN: MTN)*
+- 2: ~~Project: Mountain *(CN: MTN)*~~ **ON HOLD**
 - 3: ~~Project: iClient *(CN: EYEC)*~~ **ON HOLD**
 
 `Problems? add an issue to this repo`
