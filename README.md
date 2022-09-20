@@ -19,9 +19,9 @@ just a boy that develops stuff
 - 2: Project: Mountain [0.68.4-lateAlpha]
 ### Open Projects:
 *in priority order*
-- 1: Project: Mountain *(CN: MTN)*
-- 2: Project: iClient *(CN: EYEC)*
-- 3: Project: Gamma *(CN: GAMMA)*
+- 1: Project: Tar *(CN: Tar)*
+- 2: Project: Mountain *(CN: MTN)*
+- 3: ~~Project: iClient *(CN: EYEC)*~~ **ON HOLD**
 
 `Problems? add an issue to this repo`
 
