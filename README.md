@@ -16,10 +16,10 @@ just a boy that develops stuff
 
 ### Released projects:
 - 1: Synrup Security Agency [0.84.8-closedBeta]
-- 2: Project: Mountain [0.68.4-lateAlpha]
+- 2: Project: Mountain [0.68.4-lateAlpha-closed]
 ### Open Projects:
 *in priority order*
-- 1: Project: Tar *(CN: Tar)*
+- 1: funni roadbloks game *(CN: FR)**
 - 2: ~~Project: Mountain *(CN: MTN)*~~ **ON HOLD**
 - 3: ~~Project: iClient *(CN: EYEC)*~~ **ON HOLD**
 
