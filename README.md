@@ -15,8 +15,9 @@ just a boy that develops stuff
 - **c++** learning - <1yr
 
 ### Released projects:
-- 1: Synrup Security Agency [0.84.8-closedBeta]
-- 2: Project: Mountain [0.68.4-lateAlpha-closed]
+- 1: Project: Mountain [closed-beta]
+- 2: ~~Synrup Security Agency~~ [deprecated]
+
 ### Projects:
 *in priority order*
 - 1: Project: Mountain *(CN: MTN)*
