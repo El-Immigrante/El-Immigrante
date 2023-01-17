@@ -1,4 +1,4 @@
-Hi there, I'm SleepyKoder aka PieBoi_
+Hi there, I'm PieBoi
 -----------------------------------------
 just a boy that develops stuff
 
@@ -7,21 +7,20 @@ just a boy that develops stuff
 - **Spanish (Mexican)**
 
 ### Coding Langs:
-- **lua**,
-- **python**,
-- **html**,
-- **css**,
-- **javascript**,
-- **java**
+- **lua** 6yrs,
+- **JavaScript 6yrs,
+- **python** **4yrs,
+- **web** 4yrs,
+- **java** learning - 1yr,
+- **c++** learning - <1yr
 
 ### Released projects:
 - 1: Synrup Security Agency [0.84.8-closedBeta]
 - 2: Project: Mountain [0.68.4-lateAlpha-closed]
-### Open Projects:
+### Projects:
 *in priority order*
-- 1: funni roadbloks game *(CN: FR)**
-- 2: ~~Project: Mountain *(CN: MTN)*~~ **ON HOLD**
-- 3: ~~Project: iClient *(CN: EYEC)*~~ **ON HOLD**
+- 1: Project: Mountain *(CN: MTN)*
+- 2: ~~Project: iClient *(CN: EYEC)*~~ **deprecated, discontinued **
 
 `Problems? add an issue to this repo`
 
@@ -30,4 +29,7 @@ just a boy that develops stuff
 (August 2021 - March 2022) El-Immigrante
 --name change--
 
-(March 2022 - now) SleepyKoder
+(March 2022 - Jan 2023) SleepyKoder
+--name change--
+
+(Jan 2023 - now) piieboi
