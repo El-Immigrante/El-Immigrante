@@ -9,7 +9,7 @@ just a boy that develops stuff
 ### Coding Langs:
 - **lua** 6yrs,
 - **JavaScript** 6yrs,
-- **python** **4yrs,
+- **python** 4yrs,
 - **web** 4yrs,
 - **java** learning - 1yr,
 - **c++** learning - <1yr
