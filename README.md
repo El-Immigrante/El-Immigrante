@@ -11,7 +11,7 @@ just a boy that develops stuff
 - **JavaScript** 6yrs,
 - **python** 4yrs,
 - **web** 4yrs,
-- **java** learning - 1yr,
+- **java** 1yr,
 - **c++** learning - <1yr
 
 ### Released projects:
@@ -28,9 +28,9 @@ just a boy that develops stuff
 ### OLD NAMES: (in case you're looking for code on my github)
 
 (August 2021 - March 2022) El-Immigrante
---name change--
+--name change, weird name to spell out--
 
 (March 2022 - Jan 2023) SleepyKoder
---name change--
+--name change, undisclosed reasons--
 
 (Jan 2023 - now) piieboi
