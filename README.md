@@ -1,6 +1,5 @@
-Hi there, I'm PieBoi
------------------------------------------
-Hi there! I'm PieBoi, a 15 year old boy that develops stuff. I'm decent at Software Development, Photoshop, Editing and Animation. 
+## Hi there, I'm PieBoi
+a 15 year old boy that develops stuff. I'm decent at Software Development, Photoshop, Editing and Animation. 
 Frequent sleep paralysis haver. Certified Linux User (i have no idea what i'm doing). And some people claim that I am crazy, I disagree.
 Yo hablo Español!
 
