@@ -10,6 +10,7 @@ Yo hablo Español!
 
 ### Released projects:
 - 1: Project: Mountain [closed-beta]
+- 2: Project: CAPI [public]
 
 ### Projects:
 *in priority order*
