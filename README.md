@@ -1,5 +1,5 @@
 ## Hi there, I'm PieBoi
-I'm PieBoi, a 15y/o Developer. I develop in Java and in Python! I also know some Graphic Design and I create content sometimes!
+I'm PieBoi, a random developer. I develop in Java and in Python! I also know some Graphic Design and I create content sometimes!
 Yo hablo Español!
 
 ### Coding Langs:
@@ -9,8 +9,8 @@ Yo hablo Español!
 - **Java** 1yr,
 
 ### Released projects:
-- 1: Project: Mountain [closed-beta]
-- 2: Project: CAPI [public]
+- 1: Project: Mountain [closed-beta] {free, proprietary}
+- 2: Project: CAPI [public] {free, proprietary}
 
 ### Projects:
 *in priority order*
