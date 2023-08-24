@@ -19,4 +19,14 @@ Yo hablo Español!
 - 3: Kappy & Knightly [*[KAPI](https://sleepi.lol/clumsy)*]
 - 4: Project: Mountain [*[MTN](https://sleepi.lol/mountain)*]
 
-#### Problems with my code? Add an issue to its repo and i'll get to it.
+### Problems with my code? Add an issue to its repo and i'll get to it.
+
+```lua
+solo.to/
+   ___  _     ___       _ 
+  / ⌞ \(_)__ / ⌞ )___  (_)
+ / ___/ / ⌞_) ⌞  / ⌞ \/ / 
+/_/  / /\__/____/\___/ /                         
+v16 /_/ 2023        /_/
+"There is Work to be Done.
+```
