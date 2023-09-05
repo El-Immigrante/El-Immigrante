@@ -23,7 +23,7 @@ Yo hablo Español!
 
 ### Problems with my code? Add an issue to its repo and i'll get to it.
 
-```lua
+```kotlin
 solo.to/
    ___  _     ___       _ 
   / ⌞ \(_)__ / ⌞ )___  (_)
