@@ -1,5 +1,7 @@
-## Hi there, I'm PieBoi
-You can call me Pie, I kinda just sit in my corner of the internet and develop my own things in Java, Python, and JavaScript. I sometimes do graphic design, "art", and content creation.
+<div align="center">
+<h1> Hi, I Exist! </h1>
+</div>
+I'm PieBoi, You can call me Pie, I kinda just sit in my corner of the internet and develop my own things in Java, Python, and JavaScript. I sometimes do graphic design, sometimes "art", and content creation occasionally.
 Yo hablo Español!
 
 ### Coding Langs:
