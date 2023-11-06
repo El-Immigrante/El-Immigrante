@@ -2,7 +2,7 @@
 <h1> Hi, I Exist! </h1>
 </div>
 I'm PieBoi, You can call me Pie, I kinda just sit in my corner of the internet and develop my own things in Java, Python, and JavaScript. I sometimes do graphic design, sometimes "art", and content creation occasionally.
-Yo hablo Español!
+Persona de Horchata Certificada.
 
 ### Coding Langs:
 - **Lua** 6yrs,
@@ -15,11 +15,14 @@ Yo hablo Español!
 - 2: Kappy [public] {free, proprietary}
 
 ### Projects:
-*in priority order*
-- 1: VØID: TAR 2.0 [*[TΛR](https://sleepi.lol/void/tar)*]
-- 2: VØID: Exp0 [*[EXP0](https://sleepi.lol/void/RF)*]
-- 3: Kappy & Knightly [*[KAPI](https://sleepi.lol/clumsy)*]
-- 4: Project: Mountain [*[MTN](https://sleepi.lol/mountain)*]
+*in priority order*- 
+- 1: VØID: Gasoline [*[GAS](https://piieboi.github.io/void/gas)*]
+- 2: VØID: TAR 2.0 [*[TΛR](https://piieboi.github.io/void/tar)*]
+- 3: VØID: ExPyramid [*[EXPY](https://piieboi.github.io/void/expy)*]
+- 4: VØID: PyStealth [*[STLTH](https://piieboi.github.io/void/stlth)*]
+
+- 5: Kappy & Knightly [*[KAPI](https://piieboi.github.io/clumsy)*] (**PAUSED**)
+- 6: Project: Mountain [*[MTN](https://piieboi.github.io/mountain)*] (**PAUSED**)
 
 ### Problems with my code? Add an issue to its repo and i'll get to it.
 
