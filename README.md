@@ -20,13 +20,13 @@ Certified Horchata Person (Mexican & I speak Spanish).
 
 ### Projects:
 *in priority order*- 
-- 1: VØID: Gasoline [*[GAS](https://piieboi.github.io/void/gas)*]
-- 2: VØID: ExPyramid [*[EXPY](https://piieboi.github.io/void/expy)*]
-- 3: VØID: PyStealth [*[STLTH](https://piieboi.github.io/void/stlth)*]
+- 1: VØID: TAR 2.0 [*[TΛR](https://piieboi.github.io/void/tar)*]
+- 2: VØID: PyStealth [*[STLTH](https://piieboi.github.io/void/stlth)*]
 
-- 5: Kappy & Knightly [*[KAPI](https://piieboi.github.io/clumsy)*] (**PAUSED**)
-- 6: Project: Mountain [*[MTN](https://piieboi.github.io/mountain)*] (**PAUSED**)
-- 7: VØID: TAR 2.0 [*[TΛR](https://piieboi.github.io/void/tar)*] (**PAUSED**)
+- 3: Kappy & Knightly [*[KAPI](https://piieboi.github.io/clumsy)*] (**Redesigning...**)
+- X: Project: Mountain [*[MTN](https://piieboi.github.io/mountain)*] (**PAUSED**)
+- X: VØID: ExPyramid [*[EXPY](https://piieboi.github.io/void/expy)*] (**PAUSED**)
+
 
 ### Problems with my code? Add an issue to its repo and i'll get to it.
 
