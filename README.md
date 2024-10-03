@@ -1,32 +1,45 @@
 <div align="center">
-<h1> Stalking me already</h1>
+<h1>Stalking me already</h1>
 </div>
 
-*no banner today.*
+![Wow A Banner](assets/PieBoiProjectsBanner.png)
 
-"I suffer by choice."
+"i would be suffering from success, if i was successful."
 
-I'm PieBoi, you can call me Pie, I'm a Software Developer, Mechanic, Designer, Illustrator and Animator.
+I'm PieBoi, you can call me Pie, I'm a Software Developer, Mechanic, Designer, Illustrator and Animator.   
+I'm not good at math, or at reading, or at literally anything,
+I might be slowly losing my sanity but that's ok! 
+
+I am a caffiene and melatonin addict.
 
 Stalk me more:   
 [Twitch](https://www.twitch.tv/piieboi) | [YouTube](https://youtube.com/@pieboi) | [Twitter](https://twitter.com/pieboi_) | [Instagram](https://instagram.com/piieboi)
 
 ### Coding Langs:
-- **Lua** 8yrs - *Begining in Early 2018, when I decided to develop my own roblox game, it was bad.*
-- **JS** 8yrs - *Begining in Mid-2018, when a teacher introduced me to scratch.mit.*
-- **Python** 5yrs - *Begining in late-2019 when I took a kid on in a bet to make somethins stupid.*
-- **Java** 2yrs - *Begining in Late-2021, when I decided to make iClient*.
-- **C#** Less than 1 year.
-- **C++** Less than 1 year.
+- **Lua** - *Since Early 2018*
+- **JS** - *Since Mid-2018*
+- **Python** - *Since late-2019*
+- **Java** - *Since Late-2021.*
 
 ### Projects:
 *in priority order*
-- 0: AleksHaxx (**In Early Development**)
-- 1: Kappy & Knightly (**4.0!**)
-- 2: Project: Mountain (**Still in Private Beta**)
+- 0: **LinkMC** :eyes:  
+  Current: BETA-1.4
+  
+- 1: Kappy (**4.1 soon...**)  
+  Current: 4.0
+  
+- 2: Project: Mountain (**Still in Private Beta**)  
+  Current: PB9R / 2024.07.22
+  
+- 3: Project: Iris (**w/ Kappy 4.1**)  
+  Current: 2.2 -> EXPIRES Oct 31st 2024
 
-
-### Problems with my code? Add an issue to its repo and i'll get to it.
+### Discontinued Projects:
+- X: ~~AleksHaxx~~  
+  Snapchat's MyAI did it better, this was going to be dead on arrival.
+- X: ~~RF-Storm / ExPyramid~~  
+  Too annoying to work with for what it could do.
 
 ```kotlin
 solo.to/
