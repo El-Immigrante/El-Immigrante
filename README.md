@@ -8,9 +8,10 @@
 
 I'm PieBoi, you can call me Pie, I'm a Software Developer, Mechanic, Designer, Illustrator and Animator.   
 I'm not good at math, or at reading, or at literally anything,
-I might be slowly losing my sanity but that's ok! 
+I might be slowly losing my sanity but that's ok!  
+Gravity Falls enthusiast.  
 
-I am a caffiene and melatonin addict.
+I am a caffeine and melatonin addict.
 
 Stalk me more:   
 [Twitch](https://www.twitch.tv/piieboi) | [YouTube](https://youtube.com/@pieboi) | [Twitter](https://twitter.com/pieboi_) | [Instagram](https://instagram.com/piieboi)
@@ -24,22 +25,17 @@ Stalk me more:
 ### Projects:
 *in priority order*
 - 0: **LinkMC** :eyes:  
-  Current: BETA-1.4
+  Current: BETA-1.6
   
-- 1: Kappy (**4.1 soon...**)  
-  Current: 4.0
+- 1: Kappy  
+  Current: 4.1
   
 - 2: Project: Mountain (**Still in Private Beta**)  
-  Current: PB9R / 2024.07.22
+  Current: PB9R / 2024.12.17
   
 - 3: Project: Iris (**w/ Kappy 4.1**)  
-  Current: 2.2 -> EXPIRES Oct 31st 2024
+  Current: 2.4 -> EXPIRES Apr 19th 2025
 
-### Discontinued Projects:
-- X: ~~AleksHaxx~~  
-  Snapchat's MyAI did it better, this was going to be dead on arrival.
-- X: ~~RF-Storm / ExPyramid~~  
-  Too annoying to work with for what it could do.
 
 ```kotlin
 solo.to/
